@@ -90,11 +90,11 @@ Without  facing crunch for emergency Cash
    
    
   
-Pay only Intrest Amount
+Pay only Interest Amount
    </p>
 
    <p className="text-sm text-neutral-600 dark:text-neutral-400">
-   Pay only the Interest Not Even EMI till the loan term Pay Interest on the Flexible Principle value you choose. balloon amout accepted
+   Pay only the Interest Amount from EMI = Principle + Interest i.e. Not Even EMI till the loan term Pay Interest on the Flexible Principle Amount you choose. Balloon payment accepted . We don't lock you like ordinary Loans . We give you Freedom to payout your loan completely anytime.
    </p>
 	
 		</div>

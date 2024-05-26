@@ -23,7 +23,7 @@ export const projects = [
   {
     title: "Instant Approval",
     description:
-      "Get instant approval on your loan against securities, disbursed within 4 hours. If we delay, we’ll return 50% of your processing fee!",
+      "Get instant approval on your loan against securities, disbursed after your quick porfoilio analytics.",
     link: "#",
   },
   {

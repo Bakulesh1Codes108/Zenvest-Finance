@@ -12,9 +12,17 @@ const BasicFAQ = () => {
         </h3>
         <Question title="What is Zenvest?" defaultOpen>
           <p>
-          Zenvest is a lending platform that offers loans at a 10.5% interest rate using your mutual 
+          Zenvest is a lending platform that offers basic LAMF loans at a 10.5% interest rate using your mutual 
 funds and securities as collateral, partnering with top banks and NBFCs in India for a 
 secure and seamless service.
+          </p>
+          </Question>
+        <Question title="How many Loan products are there in  Zenvest?">
+          <p>
+          There are 3 Types of Loan Product on Zenvest
+          1) Basic LAMF with 10.5 % Interest
+          2) Flexible Overdraft LAMF with 10.5 % Interest
+          3) Ultra Curated Personalised LAMF beyond 95% Collateral Limit with Higher Interest Rate compared to other two
           </p>
         </Question>
         <Question title="Is my investment safe with Zenvest?">
@@ -63,7 +71,7 @@ they meet the lender’s criteria
         </Question>
         <Question title="Can I make partial payments on my loan?">
           <p>
-          Yes, Zenvest’s OD product allows part payments without prepayment charges.
+          Yes, Zenvest’s OD Over Draft product allows part payments without prepayment charges.
 
 
           </p>

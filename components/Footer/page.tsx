@@ -248,7 +248,7 @@ export default function Footer(){
 
     <div className="mt-16 border-t border-gray-100 pt-8">
       <p className="text-center text-xs/relaxed text-gray-50">
-        © Zenvest 2024. All rights reserved.
+        © Zenvest Finance 2024. All rights reserved.
 
         <br />
 

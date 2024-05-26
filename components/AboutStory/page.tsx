@@ -83,17 +83,17 @@ const AboutBlock = () => (
     <p>
     Once upon a time, {" "}
       <span className="text-zinc-400">
-    amidst the serene natural beauty of Bengaluru, I embarked on my first IT job, filled with excitement and hope. Little did I know, this journey would lead me to unexpected challenges and a revolutionary idea.
+    Amidst the serene natural beauty of Bengaluru, I embarked on my first IT job, filled with excitement and hope. Little did I know, this journey would lead me to unexpected challenges and a revolutionary idea.
 
 As part of my job, I had to sign a two-year bond with a hefty breaking amount of one lakh rupees. Eager to secure my future, I invested 1.5 lakh rupees in RVNL shares, buying them at 45 rupees per share, hoping for lucrative returns. However, fate had other plans.
 
-I found myself entangled in a nightmarish project. A bad manager, unbearable night shifts, and immense mental pressure took a toll on my health. The project offered no respite, no work-from-home option, and no comfort. Despite having successfully navigated other projects, this one seemed like a never-ending nightmare.
+I found myself entangled in a nightmarish project. A  unhuman manager due to nature of such large project for cost savings , unbearable night shifts, and immense mental pressure took a toll on my health. The project offered no respite, no work-from-home option, and no comfort. Despite having successfully navigated other projects, this one seemed like a never-ending nightmare.
 
 For the sake of my health and sanity, I decided to leave the project without seeking another job. However, this decision came at a cost. My investment in RVNL shares had grown significantly, with the stock price soaring to over 300 rupees per share in just one year. It was a bitter pill to swallow, knowing that had it not been for the emergency, my investment would have yielded even greater returns.
 
 Faced with this predicament, I searched for a solution in vain. This experience sparked an idea within me – the creation of Zenvest, an ultimate emergency payable flexible credit line. Zenvest aimed to provide individuals with a financial safety net during emergencies, offering flexibility and peace of mind.
 
-Thus, from the ashes of my setback emerged a beacon of hope for many – Zenvest, a testament to resilience, innovation, and the human spirit's ability to triumph over adversity.
+Thus, from the ashes of my setback emerged a beacon of hope for many – Zenvest Finance, a testament to resilience, innovation, and the human spirit's ability to triumph over adversity.
       </span>
     </p>
   </Block>
