@@ -12,10 +12,10 @@ const teamMembers: TeamMember[] = [
     name: 'Bakulesh Rane',
     role: 'Founder',
     description:
-      "Bakulesh, Founder at Zenvest, combines 2 years of software engineering and ML data roles at major firms with 1 year in startup marketing. He's recognized for building a 100k+ member Data Analytics community and holds advanced certifications in Data Science and Blockchain from IIT Kanpur.",
+      "Bakulesh, Founder at Zenvest, combines 2 years of software engineering and ML data roles at major firms with 1 year in startup marketing. He's recognized for building a 100k+ member International Data Analytics community on Facebook and holds advanced certifications in Data Science EICT from IIT Rookie and Blockchain from IIT Kanpur.Equipved with vision for Future Emerging Fields of Finance .",
     imageSrc:
       'Bakuleshrane.jpeg',
-  },
+  },/*
   {
     name: 'Abhishek Pawar',
     role: 'Co-Founder',
@@ -23,7 +23,7 @@ const teamMembers: TeamMember[] = [
       'Abhishek, Co-founder at Zenvest, brings 3+ years of experience in pharmaceuticals, emerging biotech, and management consulting, including roles at Bristol Meyers Squibb, IQVIA, Pfizer, and Dompe, with a B.Tech from VJTI Mumbai.',
     imageSrc:
       'Abhishek.jpg',
-  },
+  },*/
 
 ];
 
