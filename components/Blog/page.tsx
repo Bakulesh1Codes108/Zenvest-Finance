@@ -126,7 +126,7 @@ type PostType = {
 const posts: PostType[] = [
   {
     id: 1,
-    imgUrl: "https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhPoZm3a9z7I4OCt",
+    imgUrl: "https://miro.medium.com/v2/resize:fit:875/1*UwU0-LzrfUGl3fncOI1f4w.jpeg",
     author: "Bakulesh Rane",
     title: "How Indian Rural Finance will Transform with this new Financial Tool into the Market known as LAMF",
     description:
@@ -134,12 +134,21 @@ const posts: PostType[] = [
     link:'https://medium.com/@bakuleshraneprofile/loan-against-mutual-funds-lam-serves-as-a-crucial-lifeline-for-many-individuals-and-businesses-in-b90ae8f6e460'
   },
   {
-    id: 1,
+    id: 2,
     imgUrl: "https://miro.medium.com/v2/resize:fit:720/format:webp/0*rnhN8yaJxbhk7hjF",
     author: "Bakulesh Rane",
     title: "How LAMF saves Marriages ?",
     description:
       "In the context of marriage planning, it’s crucial to explore additional techniques and considerations to ensure financi...",
     link:'https://medium.com/@bakuleshraneprofile/how-lamf-saves-marriages-26aa993cb1b5'
+  },
+  {
+    id: 3,
+    imgUrl: "https://miro.medium.com/v2/resize:fit:875/0*NG419D-c-VluLK_o",
+    author: "Bakulesh Rane",
+    title: "How Zenvest LAMF Wallet is a best tool for Planning Stress Free Foriegn Education ?",
+    description:
+      "Explore Stress free way of Planning and Funding  Foreign Education in Recession or Unusual Times ",
+    link:'https://medium.com/@bakuleshraneprofile/photo-by-manu-ros-on-unsplash-6caa4d3e3e22'
   },
 ];
